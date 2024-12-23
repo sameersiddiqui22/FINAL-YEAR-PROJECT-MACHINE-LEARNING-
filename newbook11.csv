@@ -1,0 +1,139 @@
+name,company,year,Price,suspension,fuel_type
+Kia Picanto,Kia,2022,2186000,Manual,Petrol
+Kia Picanto,Kia,2022,2292000,Automatic,Petrol
+Kia Stonic EX,Kia,2022,3750000,Automatic,Petrol
+Kia Stonic EX+,Kia,2022,3975000,Automatic,Petrol
+Kia Sportage Alpha,Kia,2022,4764000,Automatic,Petrol
+Kia Sportage AWD,Kia,2022,5276000,Automatic,Petrol
+Kia Sportage FWD,Kia,2022,5800000,Automatic,Petrol
+Kia Carnival GLS,Kia,2022,9199000,Automatic,Petrol
+Kia Carnival GLS+,Kia,2022,9999000,Automatic,Diesel
+Kia Sorento FWD,Kia,2021,6836000,Automatic,Petrol
+Kia Sorento AWD,Kia,2022,7499000,Automatic,Petrol
+Suzuki Alto VX,Suzuki,2022,1306000,Automatic,Petrol
+Suzuki Alto VXR,Suzuki,2022,1546000,Automatic,Petrol
+Suzuki Alto VXL,Suzuki,2022,1747000,Automatic,Petrol
+Suzuki Wagon VXR,Suzuki,2022,1877000,Automatic,Petrol
+Suzuki Wagon VXL,Suzuki,2022,1975000,Automatic,Petrol
+Suzuki Wagon AGS,Suzuki,2022,2158000,Automatic,Petrol
+Suzuki Cultus VXR,Suzuki,2022,2030000,Automatic,Petrol
+Suzuki Cultus VXL,Suzuki,2022,2244000,Automatic,Petrol
+Suzuki Cultus AGS,Suzuki,2022,2422000,Automatic,Petrol
+Suzuki Swift GL,Suzuki,2022,2499000,Automatic,Petrol
+Suzuki Swift GLX,Suzuki,2022,2899000,Automatic,Petrol
+Suzuki Jimny GA,Suzuki,2022,4809000,Automatic,Petrol
+Suzuki Vitara GLX,Suzuki,2022,6915000,Automatic,Petrol
+Suzuki APV 1.5L,Suzuki,2022,4898000,Automatic,Petrol
+Suzuki Ravi,Suzuki,2022,1117000,Automatic,Petrol
+Suzuki Bolan,Suzuki,2022,1178000,Automatic,Petrol
+Toyota Yaris GLI M/T,Toyota,2021,2619000,Automatic,Petrol
+Toyota Yaris GLI CVT,Toyota,2021,2824000,Automatic,Petrol
+Toyota Yaris ATIV M/T,Toyota,2021,2752000,Automatic,Petrol
+Toyota Yaris ATIV CVT,Toyota,2021,2926000,Automatic,Petrol
+Toyota Yaris ATIV X,Toyota,2021,3182000,Automatic,Petrol
+Toyota Corolla Altis MT,Toyota,2021,3387000,Automatic,Petrol
+Toyota Corolla Altis AT,Toyota,2021,3541000,Automatic,Petrol
+Toyota Corolla Altis CVT,Toyota,2021,3879000,Automatic,Petrol
+Toyota Corolla Altis Grande,Toyota,2021,4206000,Automatic,Petrol
+Toyota Prius,Toyota,2021,11115500,Hybrid,Petrol
+Toyota Camry,Toyota,2021,21337500,Hybrid,Petrol
+Toyota Avanza,Toyota,2021,5796000,Automatic,Petrol
+Toyota Corolla Cross Smart,Toyota,2021,9878000,Hybrid,Petrol
+Toyota Corolla Cross,Toyota,2021,9258000,Hybrid,Petrol
+Toyota Fortuner STD,Toyota,2021,8578000,Automatic,Petrol
+Toyota Fortuner HI,Toyota,2021,9950000,Automatic,Petrol
+Toyota Fortuner Sigma,Toyota,2021,10401000,Automatic,Diesel
+Toyota Fortuner Legender,Toyota,2021,10851000,Automatic,Diesel
+Toyota Hilux Revo G,Toyota,2021,6956000,Automatic,Diesel
+Toyota Hilux Revo G A/T,Toyota,2021,7315000,Automatic,Diesel
+Toyota Hilux Revo Rocco,Toyota,2021,8481000,Automatic,Diesel
+Toyota Hilux Revo DC,Toyota,2021,6404000,Automatic,Diesel
+Toyota Single Cabin UP,Toyota,2021,4087000,Automatic,Petrol
+Toyota Single Cabin STD,Toyota,2021,4057000,Automatic,Petrol
+Toyota Single Cabin Standard,Toyota,2021,5477000,Automatic,Petrol
+Toyota Rush A/T,Toyota,2021,6465000,Automatic,Petrol
+Toyota Rush M/T,Toyota,2021,6225000,Automatic,Petrol
+Toyota Land Cruiser Prado,Toyota,2021,39284500,Automatic,Diesel
+Toyota Land Cruiser M/T,Toyota,2021,27944500,Automatic,Diesel
+Toyota Land Cruiser A/T,Toyota,2021,41424500,Automatic,Petrol
+Toyota Land Cruiser GX,Toyota,2021,41705000,Automatic,Diesel
+Toyota Land Cruiser VX,Toyota,2021,51385000,Automatic,Diesel
+Toyota Land Cruiser VXR,Toyota,2021,57865000,Automatic,Diesel
+Toyota Land Cruiser VX,Toyota,2021,52665000,Automatic,Petrol
+Changan Alsvin Comfort,Changan,2022,2489000,Manual,Petrol
+Changan Alsvin Comfort,Changan,2022,2744000,Automatic,Petrol
+Changan Alsvin Lumiere,Changan,2022,2939000,Automatic,Petrol
+Changan Karvaan,Changan,2022,1674000,Manual,Petrol
+Changan Karvaan Plus,Changan,2022,1814000,Automatic,Petrol
+Proton Saga MT,Proton,2022,2149000,Automatic,Petrol
+Proton Saga AT,Proton,2022,2299000,Automatic,Petrol
+Proton Saga ACE,Proton,2022,2399000,Automatic,Petrol
+Hyundai Sonata 2.0,Hyundai,2021,6399000,Automatic,Petrol
+Hyundai Sonata 2.5,Hyundai,2021,7099000,Automatic,Petrol
+Hyundai Tuscon FWD,Hyundai,2021,4979000,Automatic,Petrol
+Hyundai Tuscon AWD,Hyundai,2021,5469000,Automatic,Petrol
+Hyundai Porter H100,Hyundai,2021,2549000,Automatic,Petrol
+Hyundai Elentra GLS,Hyundai,2021,3899000,Manual,Petrol
+Hyundai Grand Starex GL,Hyundai,2021,4549000,Automatic,Petrol
+Hyundai Grand Starex GLS,Hyundai,2021,5099000,Manual,Petrol
+Hyundai Grand Starex GLS,Hyundai,2021,5899000,Automatic,Petrol
+Honda Civic CVT,Honda,2021,3837000,Automatic,Petrol
+Honda Civic Oriel,Honda,2021,4087000,Automatic,Petrol
+Honda Civic Turbo,Honda,2021,4620000,Automatic,Petrol
+Honda Accord Turbo,Honda,2021,12005000,Automatic,Petrol
+Honda BRV S,Honda,2021,3430000,Automatic,Petrol
+Honda City MT,Honda,2021,2630000,Automatic,Petrol
+Honda City CVT,Honda,2021,2830000,Automatic,Petrol
+Honda City ,Honda,2021,2955000,Automatic,Petrol
+Honda City Aspire MT,Honda,2021,3075000,Automatic,Petrol
+Honda Aspire CVT,Honda,2021,3230000,Automatic,Petrol
+Suzuki Alto VX,Suzuki,2022,1306000,Automatic,Petrol
+Suzuki Alto VXR,Suzuki,2022,1546000,Automatic,Petrol
+Suzuki Alto VXL,Suzuki,2022,1747000,Automatic,Petrol
+Suzuki Wagon VXR,Suzuki,2022,1877000,Automatic,Petrol
+Suzuki Wagon VXL,Suzuki,2022,1975000,Automatic,Petrol
+Suzuki Wagon AGS,Suzuki,2022,2158000,Automatic,Petrol
+Suzuki Cultus VXR,Suzuki,2022,2030000,Automatic,Petrol
+Suzuki Cultus VXL,Suzuki,2022,2244000,Automatic,Petrol
+Suzuki Cultus AGS,Suzuki,2022,2422000,Automatic,Petrol
+Suzuki Swift GL,Suzuki,2022,2499000,Automatic,Petrol
+Suzuki Swift GLX,Suzuki,2022,2899000,Automatic,Petrol
+Suzuki Jimny GA,Suzuki,2022,4809000,Automatic,Petrol
+Suzuki Vitara GLX,Suzuki,2022,6915000,Automatic,Petrol
+Suzuki APV 1.5L,Suzuki,2022,4898000,Automatic,Petrol
+Suzuki Ravi,Suzuki,2022,1117000,Automatic,Petrol
+Suzuki Bolan,Suzuki,2022,1178000,Automatic,Petrol
+Toyota Yaris GLI M/T,Toyota,2021,2619000,Automatic,Petrol
+Toyota Yaris GLI CVT,Toyota,2021,2824000,Automatic,Petrol
+Toyota Yaris ATIV M/T,Toyota,2021,2752000,Automatic,Petrol
+Toyota Yaris ATIV CVT,Toyota,2021,2926000,Automatic,Petrol
+Toyota Yaris ATIV X,Toyota,2021,3182000,Automatic,Petrol
+Toyota Corolla Altis MT,Toyota,2021,3387000,Automatic,Petrol
+Toyota Corolla Altis AT,Toyota,2021,3541000,Automatic,Petrol
+Toyota Corolla Altis CVT,Toyota,2021,3879000,Automatic,Petrol
+Toyota Corolla Altis Grande,Toyota,2021,4206000,Automatic,Petrol
+Toyota Prius,Toyota,2021,11115500,Hybrid,Petrol
+Toyota Camry,Toyota,2021,21337500,Hybrid,Petrol
+Toyota Avanza,Toyota,2021,5796000,Automatic,Petrol
+Toyota Corolla Cross Smart,Toyota,2021,9878000,Hybrid,Petrol
+Toyota Corolla Cross,Toyota,2021,9258000,Hybrid,Petrol
+Kia Picanto,Kia,2022,2186000,Manual,Petrol
+Kia Picanto,Kia,2022,2292000,Automatic,Petrol
+Kia Stonic EX,Kia,2022,3750000,Automatic,Petrol
+Kia Stonic EX+,Kia,2022,3975000,Automatic,Petrol
+Kia Sportage Alpha,Kia,2022,4764000,Automatic,Petrol
+Kia Sportage AWD,Kia,2022,5276000,Automatic,Petrol
+Kia Sportage FWD,Kia,2022,5800000,Automatic,Petrol
+Kia Carnival GLS,Kia,2022,9199000,Automatic,Petrol
+Kia Carnival GLS+,Kia,2022,9999000,Automatic,Diesel
+Kia Sorento FWD,Kia,2021,6836000,Automatic,Petrol
+Kia Sorento AWD,Kia,2022,7499000,Automatic,Petrol
+Honda Civic Oriel,Honda,2021,4087000,Automatic,Petrol
+Honda Civic Turbo,Honda,2021,4620000,Automatic,Petrol
+Honda Accord Turbo,Honda,2021,12005000,Automatic,Petrol
+Honda BRV S,Honda,2021,3430000,Automatic,Petrol
+Honda City MT,Honda,2021,2630000,Automatic,Petrol
+Honda City CVT,Honda,2021,2830000,Automatic,Petrol
+Honda City ,Honda,2021,2955000,Automatic,Petrol
+Honda City Aspire MT,Honda,2021,3075000,Automatic,Petrol
+Honda Aspire CVT,Honda,2021,3230000,Automatic,Petrol

@@ -1,0 +1,300 @@
+name,company,year,Price,kms_driven,fuel_type
+Toyota Prado,Toyota,1997,2100000,100000,Diesel
+Suzuki Bolan,Suzuki,2006,380000,100000,Petrol
+Suzuki Bolan,Suzuki,1998,340000,12345,CNG
+Suzuki Alto,Suzuki,2010,535000,94000,Petrol
+Toyota Corolla XLI,Toyota,2013,1430000,100000,Petrol
+Toyota Corrolla Altis,Toyota,2012,1620000,80000,Petrol
+Suzuki Cultus VXL,Suzuki,2006,450000,65000,CNG
+Toyota Corrolla Altis,Toyota,2017,2900000,10241,Petrol
+Suzuki Alto,Suzuki,2009,490000,83000,CNG
+Honda Civic VTi,Honda,1997,480000,50000,Petrol
+Suzuki Khyber,Suzuki,1994,230000,1230000,CNG
+Suzuki Liana,Suzuki,2006,535000,73000,CNG
+Toyota Passo,Toyota,2006,770000,78000,Petrol
+Honda Civic Prosmetic,Honda,1997,490000,100000,Petrol
+Honda Civic EXi,Honda,1984,160000,170000,CNG
+Suzuki Alto,Suzuki,2005,425000,200000,Petrol
+Daihatsu Charade,Daihatsu,1988,180000,100000,Petrol
+MitsubishiPajero Mini,Mitsubishi,1995,520000,82000,Petrol
+Suzuki Margalla,Suzuki,1990,400000,10000,CNG
+Honda City IVTEC,Honda,2014,1400000,69500,Petrol
+Suzuki Khyber,Suzuki,1989,175000,10000,CNG
+KIA Classic,KIA,2001,120000,123456,CNG
+Honda Civic EXi,Honda,2000,590000,87611,CNG
+Honda Civic EXi,Honda,2007,785000,99000,CNG
+Honda Civic EXi,Honda,2005,685000,99000,CNG
+Suzuki Alto,Suzuki,2007,465000,88000,CNG
+Toyota Corolla GLI,Toyota,2010,1190000,75000,Petrol
+Toyota Corolla GLI,Toyota,2011,1290000,75000,Petrol
+Suzuki Cultus VXR,Suzuki,2002,370000,76000,CNG
+Nissan Dayz Highway ,Nissan,2013,1175000,47000,Petrol
+Toyota Corolla XLI,Toyota,2015,1675000,43000,Petrol
+Suzuki Mehran VX,Suzuki,1999,195000,3875,CNG
+Suzuki Mehran VX,Suzuki,1991,165000,98000,CNG
+Suzuki Alto,Suzuki,2006,420000,1000,Petrol
+Toyota Vitz,Toyota,2014,1430000,39000,Petrol
+Suzuki Mehran VXR,Suzuki,1991,150000,127000,CNG
+Suzuki Carry,Suzuki,1982,130000,786000,LPG
+Suzuki Cultus VXR,Suzuki,2004,415000,700000,CNG
+Suzuki Mehran VX,Suzuki,1997,185000,99999,CNG
+Toyota Passo,Toyota,2010,1040000,89000,Petrol
+Suzuki Cultus VX,Suzuki,2002,400000,100000,CNG
+Suzuki Cultus VXR,Suzuki,2001,360000,100000,Petrol
+Toyota Vitz,Toyota,2003,1150000,69000,Petrol
+Suzuki Mehran VX,Suzuki,2005,265000,65000,CNG
+Suzuki Mehran VXR,Suzuki,2009,435000,73000,CNG
+Toyota Corolla GLI,Toyota,2009,1220000,163000,Petrol
+Suzuki Cultus VXR,Suzuki,2011,780000,34000,CNG
+Suzuki Bolan,Suzuki,1987,250000,10000,CNG
+Toyota Corrolla Altis,Toyota,2004,875000,45000,Petrol
+Toyota Corolla XLI,Toyota,2013,1260000,65000,CNG
+Suzuki Cultus VXR,Suzuki,2013,840000,65000,Petrol
+Suzuki Alto,Suzuki,2004,350000,174000,CNG
+Suzuki Baleno,Suzuki,2001,380000,5458,Petrol
+Suzuki Alto,Suzuki,2007,340000,90000,Petrol
+Daihatsu Mira,Daihatsu,2013,1050000,88000,Petrol
+Toyota Vitz,Toyota,2006,730000,200000,CNG
+Suzuki Mehran VXR,Suzuki,1995,195000,28800,CNG
+Honda Civic VTi Oriel Prosmatec,Honda,2007,1070000,95000,Petrol
+Daihatsu Cuore,Daihatsu,2001,410000,71000,CNG
+Daihatsu Charade,Daihatsu,1984,155000,500000,CNG
+Suzuki Margalla,Suzuki,1994,320000,670000,CNG
+Toyota Corolla 2.0 D,Toyota,2010,1080000,134000,Diesel
+Suzuki Bolan,Suzuki,1993,290000,90000,CNG
+Toyota Corolla XE,Toyota,1998,570000,90000,Petrol
+Toyota Surf,Toyota,2007,4150000,92000,Petrol
+Suzuki FX,Suzuki,1988,90000,80000,CNG
+Suzuki Mehran VXR,Suzuki,2015,590000,36000,Petrol
+Toyota Corolla GLI,Toyota,2015,1740000,40000,Petrol
+Toyota Corolla GLI,Toyota,2004,916000,85010,Petrol
+Daihatsu Cuore,Daihatsu,2006,535000,153736,Petrol
+Suzuki Mehran VX,Suzuki,1991,110000,17000,CNG
+Honda City IDSI,Honda,2004,765000,100000,Petrol
+Toyota Premio,Toyota,2003,1150000,130000,Petrol
+Suzuki Alto,Suzuki,2007,410000,150000,Petrol
+Suzuki Mehran VX,Suzuki,1991,110000,17000,CNG
+Honda City IDSI,Honda,2004,765000,100000,Petrol
+Toyota Premio,Toyota,2003,1150000,130000,Petrol
+Suzuki Alto,Suzuki,2007,410000,150000,Petrol
+Toyota Corolla GLI,Toyota,2016,1890000,55000,Petrol
+Suzuki Cultus VXR,Suzuki,2011,790000,70000,Petrol
+Daihatsu Mira,Daihatsu,2011,785000,102000,Petrol
+Suzuki Mehran VX,Suzuki,2006,270000,1700000,Petrol
+Toyota Sprinter,Toyota,1987,150000,100000,CNG
+Suzuki Mehran VX,Suzuki,2006,270000,1700000,Petrol
+Toyota Sprinter,Toyota,1987,150000,100000,CNG
+Toyota Hilux,Toyota,2013,3850000,40000,Diesel
+Suzuki Mehran VXR,Suzuki,2012,490000,90000,Petrol
+Toyota Vitz,Toyota,2010,1250000,40000,Petrol
+Daihatsu Charade,Daihatsu,1986,135000,80000,Petrol
+Mitsubishi Lancer,Mitsubishi,2008,780000,96000,Petrol
+Suzuki Alto,Suzuki,2008,530000,83000,Petrol
+Suzuki Alto,Suzuki,2006,430000,83000,Petrol
+Honda Civic VTi Oriel Prosmatec,Honda,2017,2880000,10900,Petrol
+Toyota Passo,Toyota,2007,975000,64600,Petrol
+Suzuki Cultus VXR,Suzuki,2004,440000,80000,Petrol
+Suzuki Cultus VXR,Suzuki,2007,440000,85000,CNG
+Suzuki Mehran VXR,Suzuki,2008,400000,52000,CNG
+Suzuki Bolan,Suzuki,1997,305000,34500,CNG
+Suzuki Mehran VX,Suzuki,2012,450000,48000,Petrol
+Suzuki Swift,Suzuki,2015,1140000,50000,Petrol
+Suzuki Mehran VX,Suzuki,2017,680000,13300,Petrol
+Suzuki Alto,Suzuki,2004,335000,25000,CNG
+Toyota Estima,Toyota,2010,3350000,74000,Petrol
+Suzuki Mehran VXR,Suzuki,2011,405000,65000,Petrol
+Toyota Prado,Toyota,1991,1150000,1991,Petrol
+Suzuki Alto,Suzuki,2006,450000,4200,Petrol
+Suzuki Cultus VXR,Suzuki,2014,865000,25000,Petrol
+Suzuki Mehran VXR,Suzuki,2008,400000,52000,Petrol
+Toyota Passo,Toyota,2010,1090000,60000,Petrol
+Suzuki Mehran VXR,Suzuki,2009,300000,125463,CNG
+Suzuki Cultus VXR,Suzuki,2000,440000,76000,CNG
+Honda Civic VTi,Honda,2000,750000,132000,Petrol
+Honda Vamos,Honda,2011,820000,17500,Petrol
+Toyota Starlet,Toyota,1986,250000,186000,CNG
+Daihatsu Cuore,Daihatsu,2005,425000,62000,CNG
+Suzuki Mehran VXR,Suzuki,2010,373000,62000,Hybrid
+Toyota Prius,Toyota,2013,2500000,88000,Hybrid
+Chevrolet Joy,Chevrolet,2006,320000,100000,Petrol
+Toyota Vitz,Toyota,2000,765000,250000,Petrol
+Toyota Hilux,Toyota,2018,5350000,10000,Diesel
+Daihatsu Charade,Daihatsu,1986,200000,100000,CNG
+Honda City IVTEC,Honda,2010,1160000,85575,Petrol
+Toyota Passo,Toyota,2007,9000000,100000,Petrol
+Toyota Corrolla Altis,Toyota,2011,1210000,77000,Petrol
+Toyota Corrolla Altis,Toyota,2010,1110000,77000,Petrol
+Suzuki Alto,Suzuki,2011,570000,89000,CNG
+Toyota Prius,Toyota,2015,2830000,83000,Hybrid
+Suzuki Cultus VXR,Suzuki,2011,740000,65000,CNG
+Suzuki Alto,Suzuki,2009,320000,23400,Petrol
+Suzuki Liana,Suzuki,2007,560000,138000,Petrol
+Suzuki Cultus VXR,Suzuki,2011,750000,111000,Petrol
+Suzuki Cultus VXL,Suzuki,2009,690000,60000,CNG
+Honda City IVTEC,Honda,2009,1095000,60000,Petrol
+Toyota Corolla GLI,Toyota,2011,1400000,80000,Petrol
+Suzuki Mehran VX,Suzuki,1991,145000,45000,CNG
+Honda Civic Prosmetic,Honda,2014,1710000,59000,Petrol
+Toyota Corolla XLI,Toyota,2007,900000,8000000,CNG
+Toyota Corrolla Altis,Toyota,2016,2175000,11750,Petrol
+Honda City IVTEC,Honda,2010,1080000,80000,Petrol
+Daewoo Racer,Daewoo,1994,210000,100042,Petrol
+Honda Civic VTi Oriel Prosmatec,Honda,2009,1350000,70000,Petrol
+Daihatsu Mira,Daihatsu,2014,1100000,67000,Petrol
+Suzuki Khyber,Suzuki,1999,260000,234000,Petrol
+Honda City IVTEC,Honda,2010,1080000,80000,Petrol
+Daewoo Racer,Daewoo,1994,210000,100042,Petrol
+Suzuki Mehran VX,Suzuki,1989,170000,100000,CNG
+Toyota Corolla GLI,Toyota,2010,1250000,70000,Petrol
+Toyota Corrolla Altis,Toyota,2011,1320000,118000,Petrol
+Honda Civic Prosmetic,Honda,2007,1000000,132000,Petrol
+Honda Civic Prosmetic,Honda,2007,1000000,132000,Petrol
+Honda City IDSI,Honda,2006,785000,100000,CNG
+Nissan Sunny,Nissan,1991,220000,6000000,CNG
+Suzuki Alto,Suzuki,2007,450000,345000,Petrol
+Honda Accord,Honda,1986,290000,200000,CNG
+Suzuki Cultus VXR,Suzuki,2011,825000,70000,CNG
+Toyota Prius,Toyota,2015,2830000,83000,Hybrid
+Suzuki Alto,Suzuki,2010,430000,138000,CNG
+Honda Zest,Honda,2011,950000,54000,Petrol
+Nissan AD Van,Nissan,2007,930000,100000,Petrol
+Suzuki APV,Suzuki,2014,1275000,26000,Petrol
+Honda Civic Prosmetic,Honda,2003,760000,80000,Petrol
+Toyota Vitz,Toyota,2012,980000,160000,Petrol
+Toyota Passo,Toyota,2007,855000,100000,Petrol
+Suzuki Khyber,Suzuki,1996,210000,786110,CNG
+Suzuki Cultus VXR,Suzuki,2009,600000,80000,CNG
+Suzuki FX,Suzuki,1986,68000,123000,CNG
+Suzuki Cultus VXR,Suzuki,2006,520000,20000,CNG
+Nissan March,Nissan,2008,500000,103400,Petrol
+Honda Civic EXi,Honda,2004,700000,17000,Petrol
+Suzuki Cultus VXL,Suzuki,2006,580000,82000,CNG
+Daihatsu Cuore,Daihatsu,2000,350000,91000,Petrol
+Suzuki Khyber,Suzuki,1996,225000,100000,CNG
+Toyota Corolla XLI,Toyota,2014,1625000,45000,Petrol
+Suzuki Bolan,Suzuki,2007,500000,86580,Petrol
+Suzuki Khyber,Suzuki,1991,260000,100000,Hybrid
+KIA Pride,KIA,1996,118000,235000,CNG
+Suzuki Alto,Suzuki,2008,535000,67000,Petrol
+Suzuki Bolan,Suzuki,1986,168000,234000,CNG
+Honda City IDSI,Honda,2005,650000,200000,Petrol
+KIA Sportage,KIA,2000,220000,123400,CNG
+Daihatsu Terios Kid,Daihatsu,2000,700000,78000,CNG
+Honda Civic EXi,Honda,1985,95000,1234,Petrol
+Daihatsu Terios Kid,Daihatsu,2000,700000,78000,CNG
+Daihatsu Cuore,Daihatsu,2010,585000,186000,Petrol
+Toyota Corolla GLI,Toyota,2012,1525000,99600,Petrol
+Hyundai Santro,Hyundai,2006,440000,88000,CNG
+Suzuki Carry,Suzuki,1981,150000,12345,LPG
+Honda Fit,Honda,2013,1730000,69000,Hybrid
+Toyota Prius,Toyota,2014,2000000,120000,Hybrid
+Honda Civic EXi,Honda,2001,545000,1254,CNG
+Suzuki Alto,Suzuki,2005,425000,100000,CNG
+Suzuki Khyber,Suzuki,1998,170000,11111,CNG
+Suzuki Cultus VXR,Suzuki,2012,830000,70000,Petrol
+Suzuki Mehran VX,Suzuki,1994,155000,123400,CNG
+Suzuki Mehran VX,Suzuki,1992,120000,345000,CNG
+Suzuki Khyber,Suzuki,1992,130000,53000,CNG
+Suzuki Mehran VXR,Suzuki,1992,190000,400000,CNG
+Suzuki Khyber,Suzuki,1997,230000,60000,CNG
+Daihatsu Cuore,Daihatsu,2002,293000,123456,CNG
+Daihatsu Mira,Daihatsu,2013,1100000,49000,Petrol
+Suzuki Margalla,Suzuki,1993,300000,123456,Petrol
+Suzuki FX,Suzuki,1984,55000,50000,Petrol
+Toyota Corolla GLI,Toyota,1999,685000,10000,CNG
+FAW V2,FAW,2016,975000,16900,Petrol
+Daewoo Racer,Daewoo,1994,225000,100000,CNG
+Suzuki Mehran VX,Suzuki,2012,370000,50000,CNG
+Suzuki Alto,Suzuki,2008,510000,35955,Petrol
+Honda City Aspire,Honda,2006,930000,131389,Petrol
+Toyota Corolla XLI,Toyota,1980,250000,12345,Petrol
+Suzuki Mehran VX,Suzuki,2006,310000,345888,Hybrid
+Suzuki Alto,Suzuki,2006,425000,116500,Petrol
+Suzuki Alto,Suzuki,2011,750000,34000,CNG
+Suzuki Cultus VXL,Suzuki,2008,580000,130000,Petrol
+Honda Civic VTi Oriel,Honda,2001,600000,1160000,CNG
+Suzuki Cultus VXL,Suzuki,2018,560000,112000,CNG
+Toyota Vitz,Toyota,2012,1275000,72000,Petrol
+Daihatsu Charade,Daihatsu,1983,130000,200000,CNG
+Hyundai Santro,Hyundai,2006,365000,80000,CNG
+Toyota Corolla GLI,Toyota,2012,300000,30000,Petrol
+Suzuki Cultus VXL,Suzuki,2005,540000,140000,CNG
+Honda BR-V,Honda,2013,500000,25000,Petrol
+Hyundai Santro,Hyundai,2005,330000,10010,Petrol
+Suzuki Cultus VXR,Suzuki,2000,510000,110000,CNG
+Nissan Dayz Highway Star,Nissan,2016,1450000,30000,Petrol
+Suzuki Kei,Suzuki,2015,995000,82000,Petrol
+Toyota Probox,Toyota,2007,1100000,97000,Petrol
+Daihatsu Charade,Daihatsu,1991,130000,100000,CNG
+Daihatsu Hijet,Daihatsu,2012,785000,127111,Petrol
+Suzuki Mehran VX,Suzuki,2007,315000,99000,CNG
+Suzuki Alto,Suzuki,2012,300000,55000,CNG
+Suzuki Mehran VX,Suzuki,2007,315000,99000,CNG
+Daihatsu Hijet,Daihatsu,2010,690000,75000,Petrol
+Suzuki Mehran VX,Suzuki,1991,165000,200000,CNG
+Honda Civic VTi Oriel Prosmatec,Honda,2013,1750000,100000,Petrol
+Suzuki Bolan,Suzuki,2007,490000,500000,CNG
+Suzuki Khyber,Suzuki,1999,265000,120000,CNG
+Daihatsu Cuore,Daihatsu,2006,550000,100000,Petrol
+Daihatsu Mira,Daihatsu,2015,1260000,20000,Petrol
+Honda Civic VTi Oriel Prosmatec,Honda,2007,1079000,82500,Petrol
+Suzuki Cultus VXR,Suzuki,2006,530000,140000,CNG
+Suzuki FX,Suzuki,1983,90000,200000,CNG
+Daihatsu Charade,Daihatsu,1984,150000,1525555,CNG
+Suzuki Alto,Suzuki,2008,550000,78000,Petrol
+Suzuki Baleno,Suzuki,2005,500000,155000,CNG
+Honda City IDSI,Honda,2005,600000,126000,Petrol
+Daihatsu Charade,Daihatsu,1986,245000,100000,CNG
+Suzuki Baleno,Suzuki,2005,500000,155000,CNG
+Suzuki Alto,Suzuki,2015,1040000,96000,Petrol
+Suzuki Alto,Suzuki,2010,580000,112000,CNG
+Honda Civic EXi,Honda,2001,600000,150000,Petrol
+Toyota Passo,Toyota,2008,975000,60000,Petrol
+Daihatsu Cuore,Daihatsu,2007,340000,150000,CNG
+Toyota Vitz,Toyota,2008,1110000,74000,Petrol
+Daihatsu Cuore,Daihatsu,2005,465000,95000,CNG
+Daihatsu Cuore,Daihatsu,1993,150000,85236,CNG
+Toyota Vitz,Toyota,2005,910000,74000,Petrol
+Toyota Yaris,Toyota,2015,280000,25000,Petrol
+Toyota Aygo,Toyota,2014,1975000,56000,Hybrid
+Toyota Vitz,Toyota,2007,930000,100000,Petrol
+Suzuki Cultus VXR,Suzuki,2014,860000,62000,Petrol
+Toyota Rush,Toyota,2007,1600000,74000,Petrol
+Daihatsu Hijet,Daihatsu,2015,725000,80000,Petrol
+Suzuki Margalla,Suzuki,1993,240000,356425,CNG
+Suzuki FX,Suzuki,1985,140000,52000,CNG
+Daihatsu Mira,Daihatsu,2014,965000,1234567,Petrol
+Suzuki Mehran VX,Suzuki,1989,120000,200000,CNG
+Toyota Prius,Toyota,2010,2000000,120000,Hybrid
+Honda Civic VTi Oriel Prosmatec,Honda,2016,2325000,89000,Petrol
+Nissan Dayz,Nissan,2015,1120000,44000,Petrol
+Toyota Vitz,Toyota,2008,950000,125000,Petrol
+Suzuki Alto,Suzuki,2016,960000,57000,Petrol
+Toyota Fortuner,Toyota,2011,210000,35000,Petrol
+Daihatsu Mira,Daihatsu,2015,1140000,29800,Petrol
+Daihatsu Charade,Daihatsu,1984,60000,10000000,CNG
+Toyota Passo,Toyota,2007,795000,150000,Petrol
+Toyota Corolla GLI,Toyota,2009,1135000,99000,CNG
+Suzuki Cultus VXR,Suzuki,2012,785000,82000,Petrol
+Suzuki Bolan,Suzuki,1997,365000,111111,CNG
+Suzuki Every,Suzuki,2014,960000,100000,Petrol
+Suzuki Cultus VXR,Suzuki,2012,695000,95410,CNG
+Toyota Corolla XLI,Toyota,2006,800000,120000,Petrol
+Suzuki Alto,Suzuki,2004,405000,77000,CNG
+Daihatsu Mira,Daihatsu,2014,1250000,38000,Petrol
+Suzuki Cultus VXR,Suzuki,2008,650000,100000,CNG
+Suzuki Cultus VXR,Suzuki,2012,695000,95410,CNG
+Suzuki Alto,Suzuki,2008,535000,82000,CNG
+Suzuki Alto,Suzuki,2007,465000,100000,CNG
+Suzuki Liana,Suzuki,2008,600000,12500,CNG
+Daihatsu Mira,Daihatsu,2016,1250000,22500,Petrol
+Honda Civic EXi,Honda,2004,820000,150000,Petrol
+Suzuki Alto,Suzuki,2007,450000,100000,Petrol
+Daihatsu Cuore,Daihatsu,2006,600000,92000,Petrol
+Toyota Camry,Toyota,2006,1650000,100000,Petrol
+Toyota Corrolla Altis,Toyota,2011,1550000,150000,Petrol
+Suzuki Cultus VXR,Suzuki,2013,860000,44000,Petrol
+Toyota Corolla XLI,Toyota,2006,950000,270000,CNG
+Suzuki Swift,Suzuki,2011,1165000,68500,Petrol
+Toyota Prado,Toyota,2013,7550000,35000,Petrol
+Suzuki Alto,Suzuki,2005,510000,100000,CNG

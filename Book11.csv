@@ -1,0 +1,183 @@
+0,name,company,year,Price,kms_driven,fuel_type
+4,Ford EcoSport Titanium,Ford,2014,2875000,36000,Diesel
+5,Ford Figo,Ford,2012,875000,41000,Diesel
+7,Ford EcoSport Ambiente,Ford,2016,4150000,24530,Diesel
+9,Skoda Fabia Classic,Skoda,2010,910000,60000,Petrol
+15,Audi A8,Audi,2017,5000000,4000,Petrol
+16,Audi Q7,Audi,2014,2500000,16934,Diesel
+17,Ford Figo,Ford,2012,875000,41000,Diesel
+35,Renault Lodgy 85,Renault,2018,3449995,20000,Diesel
+36,Skoda Yeti Ambition,Skoda,2012,2240000,68000,Diesel
+38,Renault Duster 110,Renault,2012,2505000,38000,Diesel
+39,Renault Duster 85,Renault,2013,2449995,27000,Diesel
+59,Ford Figo,Ford,2012,875000,41000,Diesel
+62,Ford EcoSport Ambiente,Ford,2016,4150000,24530,Diesel
+64,Chevrolet Spark LS,Chevrolet,2010,550000,41000,Petrol
+65,Volkswagen Polo Highline,Volkswagen,2014,1575000,60000,Petrol
+66,Skoda Fabia Classic,Skoda,2010,910000,60000,Petrol
+68,Chevrolet Spark LS,Chevrolet,2010,550000,41000,Petrol
+69,Renault Duster 110PS,Renault,2012,2505000,35000,Diesel
+73,Skoda Fabia 1.2L,Skoda,2011,797500,38200,Diesel
+76,Renault Duster,Renault,2014,2249995,50000,Diesel
+80,Skoda Fabia 1.2L,Skoda,2011,797500,38200,Diesel
+81,Ford EcoSport,Ford,2017,2449995,39000,Petrol
+83,Volkswagen Vento Highline,Volkswagen,2019,6000000,3600,Diesel
+90,Skoda Fabia 1.2L,Skoda,2011,775000,45863,Diesel
+91,BMW 3 Series,BMW,2011,3000000,60500,Petrol
+94,Ford Figo Diesel,Ford,2012,1050000,35000,Diesel
+96,Chevrolet Beat LT,Chevrolet,2012,675000,45000,Diesel
+97,BMW 7 Series,BMW,2009,8000000,35000,Petrol
+103,Ford EcoSport Titanium,Ford,2014,2750000,44000,Diesel
+110,Ford Figo Diesel,Ford,2014,975000,50000,Diesel
+121,Chevrolet Spark,Chevrolet,2012,792000,33600,Petrol
+123,Nissan Micra XV,Nissan,2011,895000,41000,Petrol
+128,Chevrolet Beat,Chevrolet,2015,750000,30000,Petrol
+130,Ford EcoSport Trend,Ford,2016,4150000,24330,Diesel
+138,Volkswagen Jetta Highline,Volkswagen,2014,3749995,46000,Diesel
+139,Volkswagen Polo Comfortline,Volkswagen,2015,1999995,2800,Petrol
+140,Volkswagen Polo,Volkswagen,2014,1374995,32000,Petrol
+142,Renault Duster,Renault,2014,2249995,50000,Diesel
+146,Renault Kwid,Renault,2016,1224995,11000,Petrol
+147,Renault Duster,Renault,2013,1999995,41000,Diesel
+148,Ford EcoSport,Ford,2017,2449995,39000,Petrol
+149,Renault Duster,Renault,2014,2374995,50000,Diesel
+152,Chevrolet Spark LT,Chevrolet,2010,425000,45000,Petrol
+155,Fiat Punto Emotion,Fiat,2012,847500,37200,Diesel
+160,Chevrolet Beat LT,Chevrolet,2011,750000,40000,Diesel
+161,Chevrolet Beat LS,Chevrolet,2011,725000,45000,Diesel
+162,Chevrolet Beat LT,Chevrolet,2012,492500,38000,Diesel
+169,Ford Fiesta,Ford,2011,1374995,55000,Diesel
+172,Ford Fiesta,Ford,2011,1374995,55000,Diesel
+181,Fiat Petra ELX,Fiat,2008,375000,65000,Petrol
+182,Skoda Fabia 1.2L,Skoda,2011,797500,38200,Diesel
+181,Fiat Petra ELX,Fiat,2008,375000,65000,Petrol
+182,Skoda Fabia 1.2L,Skoda,2011,797500,38200,Diesel
+206,Force Motors Force,Force,2015,2900000,3200,Diesel
+208,Renault Duster 110PS,Renault,2012,2505000,35000,Diesel
+210,Force Motors Force,Force,2015,2900000,3200,Diesel
+216,Volkswagen Polo,Volkswagen,2015,1650000,38000,Diesel
+222,Audi A4 1.8,Audi,2009,3495000,47000,Petrol
+223,Mercedes Benz GLA,Mercedes,2015,10000000,20000,Diesel
+224,Land Rover Freelander,Land,2015,10500000,30000,Diesel
+225,Renault Kwid RXT,Renault,2017,1700000,5000,Petrol
+227,Mercedes Benz B,Mercedes,2014,7000000,31000,Petrol
+237,Audi A4 1.8,Audi,2009,3495000,47000,Petrol
+238,Force Motors Force,Force,2015,2900000,3200,Diesel
+243,Chevrolet Tavera Neo,Chevrolet,2013,1875000,55000,Diesel
+250,Chevrolet Enjoy 1.4,Chevrolet,2013,1225000,55000,Diesel
+252,Ford Figo Diesel,Ford,2014,975000,50000,Diesel
+263,Renault Duster 85,Renault,2013,2449995,27000,Diesel
+264,Renault Duster 85,Renault,2014,2449995,59000,Diesel
+265,Renault Duster 85,Renault,2015,2749995,19000,Diesel
+267,Renault Kwid RXT,Renault,2018,1625000,15000,Petrol
+269,Renault Kwid 1.0,Renault,2018,1749995,10000,Petrol
+270,Renault Lodgy 85,Renault,2018,3449995,20000,Diesel
+271,Renault Scala RxL,Renault,2014,1749995,49000,Diesel
+274,Chevrolet Beat LS,Chevrolet,2010,600000,43000,Petrol
+278,Chevrolet Beat LS,Chevrolet,2010,400000,56000,Petrol
+280,Fiat Petra ELX,Fiat,2008,375000,65000,Petrol
+281,Chevrolet Beat LS,Chevrolet,2015,1100000,32700,Petrol
+282,Skoda Fabia 1.2L,Skoda,2011,797500,38200,Diesel
+283,Ford EcoSport Titanium,Ford,2016,2995000,30000,Diesel
+288,Chevrolet Tavera Neo,Chevrolet,2013,1875000,55000,Diesel
+295,Chevrolet Tavera Neo,Chevrolet,2013,1875000,55000,Diesel
+296,Ford EcoSport Titanium,Ford,2014,2600000,57000,Diesel
+307,Skoda Laura,Skoda,2012,1749995,44000,Diesel
+308,Renault Duster,Renault,2015,2249995,49000,Diesel
+317,Renault Duster 110,Renault,2012,2505000,38000,Diesel
+319,Skoda Laura,Skoda,2013,1874995,50000,Diesel
+320,Volkswagen Polo,Volkswagen,2010,999995,60000,Diesel
+323,Chevrolet Sail UVA,Chevrolet,2013,1050000,60000,Petrol
+324,Renault Duster 110,Renault,2012,2505000,38000,Diesel
+326,Audi A4 2.0,Audi,2012,6750000,40000,Diesel
+330,Renault Scala RxL,Renault,2015,1875000,25000,Diesel
+348,Chevrolet Spark LT,Chevrolet,2009,550000,44000,Petrol
+350,Chevrolet Spark LT,Chevrolet,2009,550000,44000,Petrol
+351,Skoda Rapid Elegance,Skoda,2013,1700000,48000,Diesel
+352,Renault Duster 110PS,Renault,2012,2505000,35000,Diesel
+356,Force Motors Force,Force,2015,2900000,3200,Diesel
+357,Skoda Rapid Elegance,Skoda,2013,1700000,48000,Diesel
+369,Chevrolet Beat Diesel,Chevrolet,2017,750000,62000,Diesel
+375,Volkswagen Polo,Volkswagen,2015,1650000,38000,Diesel
+381,Volkswagen Vento Konekt,Volkswagen,2011,1225000,65000,Diesel
+382,Mercedes Benz C,Mercedes,2002,1995000,41000,Petrol
+389,Volkswagen Vento Konekt,Volkswagen,2011,1225000,65000,Diesel
+401,Renault Duster 85,Renault,2015,3575000,65000,Diesel
+405,Chevrolet Spark LS,Chevrolet,2010,475000,23000,Petrol
+410,Ford Ikon 1.3,Ford,2001,225000,65000,Petrol
+413,Mercedes Benz A,Mercedes,2013,7500000,14000,Petrol
+414,Chevrolet Beat LS,Chevrolet,2016,1050000,22000,Diesel
+415,Ford EcoSport Trend,Ford,2013,2475000,38000,Diesel
+418,Volkswagen Vento Highline,Volkswagen,2015,2750000,34000,Diesel
+419,Renault Kwid RXT,Renault,2015,1350000,43000,Petrol
+420,Ford EcoSport Titanium,Ford,2014,2500000,40000,Diesel
+423,BMW 5 Series,BMW,2011,6495000,49000,Diesel
+424,Skoda Superb 1.8,Skoda,2011,2650000,68000,Petrol
+425,Audi Q3 2.0,Audi,2013,7495000,37000,Diesel
+428,Ford Figo Duratorq,Ford,2012,1250000,99000,Diesel
+432,Ford Figo Duratorq,Ford,2012,1250000,99000,Diesel
+438,Ford Figo Petrol,Ford,2011,875000,75000,Petrol
+484,Renault Kwid RXT,Renault,2019,1850000,1000,Petrol
+486,Jaguar XE XE,Jaguar,2016,14000000,8500,Petrol
+507,Ford Fiesta SXi,Ford,2009,1250000,56400,Petrol
+512,Audi A6 2.0,Audi,2012,7995000,11500,Diesel
+523,Chevrolet Beat PS,Chevrolet,2012,1075000,65422,Diesel
+524,Ford EcoSport Trend,Ford,2017,2900000,10000,Petrol
+528,BMW X1 xDrive20d,BMW,2011,5750000,72000,Diesel
+532,Chevrolet Cruze LTZ,Chevrolet,2014,2000000,41000,Diesel
+539,Force Motors One,Force,2013,2750000,140000,Diesel
+541,Chevrolet Spark 1.0,Chevrolet,2011,500000,27000,Petrol
+544,Renault Duster 85PS,Renault,2013,2009595,57923,Diesel
+545,Chevrolet Enjoy,Chevrolet,2014,2450000,30201,Diesel
+547,BMW 5 Series,BMW,2009,3250000,37518,Petrol
+550,Chevrolet Beat LS,Chevrolet,2016,1125000,95000,Diesel
+551,Chevrolet Cruze LTZ,Chevrolet,2011,1750000,35000,Diesel
+552,Jeep Wrangler Unlimited,Jeep,2015,4750000,3528,Diesel
+557,Renault Duster 110,Renault,2013,2175000,39000,Diesel
+563,Renault Duster 85,Renault,2015,1925000,51000,Diesel
+567,Renault Duster 85,Renault,2015,1925000,51000,Diesel
+570,Renault Duster 110,Renault,2013,2175000,39000,Diesel
+579,Skoda Octavia Classic,Skoda,2006,574950,65000,Diesel
+582,Renault Kwid 1.0,Renault,2018,1450000,2137,Petrol
+585,Skoda Octavia Classic,Skoda,2006,574950,65000,Diesel
+587,Chevrolet Beat Diesel,Chevrolet,2011,625000,56000,Diesel
+597,Ford Ikon 1.6,Ford,2003,300000,50000,Petrol
+600,Chevrolet Beat LT,Chevrolet,2012,650000,90001,Diesel
+609,Volkswagen Polo Trendline,Volkswagen,2015,1750000,25000,Diesel
+623,Ford EcoSport Trend,Ford,2014,2325000,47000,Petrol
+625,Chevrolet Beat Diesel,Chevrolet,2016,899995,19336,Diesel
+627,Jaguar XF 2.2,Jaguar,2013,10950000,29000,Diesel
+628,Audi Q5 2.0,Audi,2014,11950000,34000,Diesel
+629,BMW 3 Series,BMW,2011,5375000,35000,Diesel
+631,BMW X1 sDrive20d,BMW,2012,5125000,41000,Diesel
+636,Volkswagen Vento Comfortline,Volkswagen,2011,1200000,45933,Petrol
+641,Volkswagen Vento Comfortline,Volkswagen,2011,1200000,45933,Petrol
+648,Renault Duster,Renault,2014,4000000,7400,Diesel
+649,Volkswagen Jetta Comfortline,Volkswagen,2009,2250000,54500,Diesel
+651,Audi A4 2.0,Audi,2013,7550000,27000,Diesel
+652,Volvo S80 Summum,Volvo,2015,9250000,42000,Diesel
+655,Chevrolet Beat LT,Chevrolet,2012,675000,36000,Petrol
+656,BMW X1,BMW,2011,5000000,34000,Diesel
+658,Mercedes Benz C,Mercedes,2009,6125000,76000,Diesel
+660,Volkswagen Vento Comfortline,Volkswagen,2011,1000000,95000,Diesel
+662,Ford Figo Petrol,Ford,2019,2625000,0,Petrol
+665,Ford EcoSport Trend,Ford,2014,2000000,16000,Petrol
+669,Renault Duster RxL,Renault,2015,2750000,36000,Petrol
+674,Renault Duster 110,Renault,2013,2450000,38600,Diesel
+679,Audi A3 Cabriolet,Audi,2015,15500000,12516,Petrol
+688,Chevrolet Beat LT,Chevrolet,2015,1075000,90000,Diesel
+685,Chevrolet Beat LT,Chevrolet,2015,1075000,90000,Diesel
+716,Chevrolet Tavera LS,Chevrolet,2005,650000,68485,Diesel
+721,Ford EcoSport Titanium,Ford,2014,2950000,34000,Diesel
+723,Ford Fusion 1.4,Ford,2007,625000,85455,Diesel
+726,Fiat Linea Emotion,Fiat,2009,600000,64000,Petrol
+727,Ford Ikon 1.3,Ford,2008,475000,46000,Petrol
+739,Volkswagen Polo Highline1.2L,Volkswagen,2013,1900000,27000,Petrol
+745,Chevrolet Beat LS,Chevrolet,2014,945000,31000,Diesel
+753,Volkswagen Polo,Volkswagen,2013,1499995,48000,Diesel
+772,Ford Endeavor 4x4,Ford,2019,14500000,9000,Diesel
+781,Volkswagen Polo Highline1.2L,Volkswagen,2017,2625000,45000,Petrol
+785,Chevrolet Sail 1.2,Chevrolet,2013,1500000,28000,Petrol
+802,Chevrolet Tavera Neo,Chevrolet,2007,2325000,100800,Diesel
+808,Mercedes Benz C,Mercedes,2006,2500005,15000,Petrol
+811,Skoda Fabia,Skoda,2009,550000,45000,Petrol
